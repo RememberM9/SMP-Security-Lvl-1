@@ -1,0 +1,17 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "§dKingdomCraft §bSecurity §o§7v6.0§r",
+		"description": "§6KingdomCraft behavior pack. A semi-vanilla survival pack§r",
+		"uuid": "684480df-9359-4fa7-8f88-9124187ae3ce",
+		"version": [ 4, 0, 0 ],
+		"min_engine_version": [ 1, 19, 10 ]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "470a1590-7772-46c3-9a32-7010abde5b18",
+			"version": [ 2, 0, 0 ]
+		}
+	]
+}
